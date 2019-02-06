@@ -3,7 +3,7 @@
 
 Grin Core is an in-progress implementation of the Core MimbleWimble protocol representing Core crypto values like Moon and Lambo. Many characteristics are still undefined but the following constitutes a first set of choices:
 
-  * 21M Grins mined in the First 6 months - invest eary and you shall be rewared
+  * 21M Grins mined in the First 6 months - invest early and you shall be rewarded
   * 32MB blocks every minute - we want to be VISA but private
   * Proprietary PoW Pigeon Cycle - 100% ASIC proof
   * 20% time-locked premine, capitalistic development is the only one sustainable
@@ -18,5 +18,5 @@ We are running private test net ATM.
 
 ## Launch
 
-June 2019
+June 2019 with Android, iOS, Mac, Win, Linux and BSD node+wallet+miner
 
