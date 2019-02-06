@@ -5,9 +5,9 @@ Grin Core is an in-progress implementation of the Core MimbleWimble protocol rep
 
   * 21M Grins mined in the First 6 months - invest eary and you shall be rewared
   * 32MB blocks every minute - we want to be VISA but private
-  * Proprietray PoW Pigeon Cycle - 100% ASIC proof
+  * Proprietary PoW Pigeon Cycle - 100% ASIC proof
   * 20% time-locked premine, capitalistic development is the only one sustainable
-  * Private presale for investors, we offer sectret chain pre-mine for authorized farms
+  * Private presale for investors, we offer secret chain pre-mine for authorized farms
   * Transaction fees are based on the number of Outputs created/destroyed and total transaction size
   * GUI one-click wallet, node and miner**
   * Join our Discord!
@@ -15,4 +15,8 @@ Grin Core is an in-progress implementation of the Core MimbleWimble protocol rep
 ## Status
 
 We are running private test net ATM.
+
+## Launch
+
+June 2019
 
