@@ -11,6 +11,10 @@ Grin Core is an in-progress implementation of the Core MimbleWimble protocol rep
   * Transaction fees are based on the number of Outputs created/destroyed and total transaction size
   * GUI one-click wallet, node and miner**
   * Join our Discord!
+  
+## Proof of Work
+
+We introduce revolutionary PoW aligned with the original vision of John Tromp and Cuckoo Cycle whitepaper. We want an algorithm that is latency bound and can be mined on a smartphone or a home computer. We want a community coin where everybody can participate and get rich.
 
 ## Status
 
